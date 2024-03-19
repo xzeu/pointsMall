@@ -1,10 +1,10 @@
 account:
-  - username: 13514611855
-    passwd: Wy@991107
+  - username: 
+    passwd: 
     time_interval: 10 # 获取答案与提交答案间隔时间
-  - username: 15845100909
-    passwd: B7!dnpX3e4s48iN
+  - username: 
+    passwd: 
     time_interval: 16
-  - username: 15146423317
-    passwd: z123456!
+  - username: 
+    passwd: 
     time_interval: 10
